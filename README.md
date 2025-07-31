@@ -66,8 +66,6 @@ This lab demonstrates the ability to analyze Azure spend and continuously improv
 
 ## Steps Performed
 
-## Steps Performed
-
 **1. Resource Group Setup**  
    - Created resource group `rg-lab11-portfolio` to host all lab resources.  
    - Confirmed creation and readiness before deploying services *(Screenshot: resource-group.png)*
@@ -138,6 +136,8 @@ This lab demonstrates the ability to analyze Azure spend and continuously improv
 
 ---
 
-Sebastian Silva C. – July 2025 – Berlin, Germany  
+## Contact
+
+Sebastian Silva C. – July, 2025 – Berlin, Germany.  
 [LinkedIn](https://www.linkedin.com/in/sebastiansilc) | [GitHub](https://github.com/SebaSilC) | [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)
 
