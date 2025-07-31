@@ -22,6 +22,7 @@ I analyzed spend, identified security recommendations and remediated gaps—show
 - [Lessons Learned](#lessons-learned)
 - [Notes and Considerations](#notes-and-considerations)
 - [References](#references)
+- [Contact](#contact)
 
 ---
 
@@ -137,5 +138,6 @@ This lab demonstrates the ability to analyze Azure spend and continuously improv
 
 ---
 
-_Sebastian Silva C. – July 2025 – Berlin, Germany_  
-[LinkedIn](https://www.linkedin.com/in/sebastiansilc) | [GitHub](https://github.com/SebaSilC)
+Sebastian Silva C. – July 2025 – Berlin, Germany  
+[LinkedIn](https://www.linkedin.com/in/sebastiansilc) | [GitHub](https://github.com/SebaSilC) | [sebastian@playbookvisualarts.com](mailto:sebastian@playbookvisualarts.com)
+
