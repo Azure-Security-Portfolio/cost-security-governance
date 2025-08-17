@@ -68,27 +68,27 @@ This lab demonstrates the ability to analyze Azure spend and continuously improv
 
 **1. Resource Group Setup**  
    - Created resource group `rg-lab11-portfolio` to host all lab resources.  
-   - Confirmed creation and readiness before deploying services *(Screenshot: resource-group.png)*
+   - Confirmed creation and readiness before deploying services *(Screenshot: `resource-group.png`)*
 
 **2. Resource Deployment**  
    - Deployed a Virtual Machine (`vm-lab11-demo`) with public IP to simulate typical cloud spend and security signals.  
    - Created a Storage Account (`stlab11demo`) for demonstrating storage cost and security.  
-   - Documented resource overviews for both deployments *(Screenshots: vm-overview.png & storage-overview.png)*
+   - Documented resource overviews for both deployments *(Screenshots: `vm-overview.png` & `storage-overview.png`)*
 
 **3. Cost Management Analysis**  
-   - Navigated to **Cost Management > Cost Analysis** in Azure Portal.  
+   - Navigated to `Cost Management > Cost Analysis` in Azure Portal.  
    - Filtered costs by resource group to analyze lab spend and cost drivers.  
-   - Captured dashboard for documentation *(Screenshot: cost-dashboard-initial.png)*
+   - Captured dashboard for documentation *(Screenshot: `cost-dashboard-initial.png`)*
 
 **4. Security Recommendations Review**  
-   - Opened **Defender for Cloud > Recommendations** to review current security posture.  
-   - Identified actionable recommendations, prioritizing “Microsoft Defender CSPM should be enabled.”  
-   - Documented recommendation state before remediation *(Screenshot: defender-recommendations-initial.png & defender-cspm-before.png)*
+   - Opened `Defender for Cloud > Recommendations` to review current security posture.  
+   - Identified actionable recommendations, prioritizing “Microsoft Defender CSPM should be enabled.” *(Screenshot: `defender-recommendations-initial.png`)*
+   - Documented recommendation state before remediation *(Screenshot: `defender-cspm-before.png`)*
 
 **5. Remediation: Enable Defender CSPM**  
-   - Enabled **Microsoft Defender Cloud Security Posture Management (CSPM)** via Environment Settings in Defender for Cloud.  
+   - Enabled `Microsoft Defender Cloud Security Posture Management (CSPM)` via Environment Settings in Defender for Cloud.  
    - Verified the plan is active and monitored coverage status.  
-   - Documented proof of remediation *(Screenshot: defender-cspm-enabled.png)*
+   - Documented proof of remediation *(Screenshot: `defender-cspm-enabled.png`)*
 
 **6. Cleanup**  
    - Deleted resource group `rg-lab11-portfolio` to remove all lab resources and avoid unnecessary cloud spend.  
@@ -98,7 +98,7 @@ This lab demonstrates the ability to analyze Azure spend and continuously improv
 
 ## Screenshots
 
-*All screenshots are included in the screenshots/ folder.*
+*All screenshots are included in the `screenshots/` folder.*
 
 | Step | Filename                             | Description                                 |
 |------|--------------------------------------|---------------------------------------------|
